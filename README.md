@@ -18,9 +18,17 @@ Bilgisayar Mühendisliği öğrencisiyim ve mobil/web geliştirme alanında proj
 
 #### ⚙️ Backend & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-ff6b6b?style=for-the-badge&logo=fastapi&logoColor=white)
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+
+## ☁️ Database & Cloud
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
@@ -41,6 +49,14 @@ Bilgisayar Mühendisliği öğrencisiyim ve mobil/web geliştirme alanında proj
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzgk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Aylık Katkı Grafiği
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzgk&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Oğuzhan'ın Katkı Grafiği" />
 </div>
 
 ---
