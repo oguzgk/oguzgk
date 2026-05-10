@@ -32,14 +32,6 @@ I am a Computer Engineering student developing projects in mobile and web develo
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/oguzgk/oguzgk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
