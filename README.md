@@ -1,10 +1,10 @@
-# Selam! Ben Oğuzhan 👋
+# Hi there! I'm Oğuzhan 👋
 
-Bilgisayar Mühendisliği öğrencisiyim ve mobil/web geliştirme alanında projeler üretiyorum. Yazılım dünyasındaki yenilikleri takip etmeyi ve yapay zeka entegrasyonları üzerine çalışıyorum.
+I am a Computer Engineering student developing projects in mobile and web development. I'm passionate about following the latest innovations in the software world and focusing on Artificial Intelligence integrations.
 
 ---
 
-### 🛠 Teknolojiler & Araçlar
+### 🛠 Technologies & Tools
 
 #### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -40,11 +40,11 @@ Bilgisayar Mühendisliği öğrencisiyim ve mobil/web geliştirme alanında proj
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzgk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oğuzhan'ın GitHub İstatistikleri" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzgk&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="En Çok Kullanılan Diller" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzgk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oğuzhan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzgk&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -53,19 +53,20 @@ Bilgisayar Mühendisliği öğrencisiyim ve mobil/web geliştirme alanında proj
 
 ---
 
-### 📈 Aylık Katkı Grafiği
+### 📈 Monthly Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzgk&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Oğuzhan'ın Katkı Grafiği" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzgk&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Oğuzhan's Activity Graph" />
 </div>
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Connect with me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-g%C3%B6ktemir-709a40243/)
 [![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oguzhangoktemir473@gmail.com)
+[![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oguzgk.github.io/oguzhangoktemir.github.io/)
 
 </div>
