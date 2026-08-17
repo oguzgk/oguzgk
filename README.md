@@ -1,6 +1,6 @@
 # Hi there! I'm Oğuzhan 👋
 
-I am a Computer Engineering student developing projects in mobile and web development. I'm passionate about following the latest innovations in the software world and focusing on Artificial Intelligence integrations.
+I am a Computer Engineering graduate and Full Stack Developer building modern web and mobile applications. I focus on scalable software development, backend systems, and creating real-world products with modern technologies.
 
 ---
 
